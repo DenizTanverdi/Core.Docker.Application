@@ -1,0 +1,34 @@
+Docker Nedir ?
+
+
+Yazýlým geliþtirici ve sistemciler için açýk kaynaklý sanallaþtýrma platformudur.
+
+Misafir iþletim sistemine ihtiyaç duymayýz.
+
+Container içerisinde uygulama çalýstýracak mini bir iþletim sistemi denir.
+
+Uygulamamýzýn farklý versiyonlarý ayaða kaldýrabiliriz.
+
+
+Dockerfile --------build-------------Docker Image---------run-----------Docker Container
+
+
+	Docker Image 
+----------------------
+
+Layer topluluðudur.
+
+4 SATIRLIK DOCKERFÝLE VARSA 4 TANE KATMANIMIZ OLUR.
+
+Static bir dosyadýr ve sadece okunabilir.
+ 
+ 
+
+	Docker Container
+----------------------------
+
+Docker Image run komutuyla Container oluþur.
+
+Container  sildiðimizde ilgili Layere ulaþamayýz.
+
+Hem okunabilir hemde yazýlabilir bir katmandýr.
