@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\bin\Release\netcoreapp3.1\ConsoleCoreDocker.exe
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\bin\Release\netcoreapp3.1\ConsoleCoreDocker.deps.json
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\bin\Release\netcoreapp3.1\ConsoleCoreDocker.runtimeconfig.json
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\bin\Release\netcoreapp3.1\ConsoleCoreDocker.runtimeconfig.dev.json
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\bin\Release\netcoreapp3.1\ConsoleCoreDocker.dll
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\bin\Release\netcoreapp3.1\ConsoleCoreDocker.pdb
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\obj\Release\netcoreapp3.1\ConsoleCoreDocker.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\obj\Release\netcoreapp3.1\ConsoleCoreDocker.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\obj\Release\netcoreapp3.1\ConsoleCoreDocker.AssemblyInfo.cs
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\obj\Release\netcoreapp3.1\ConsoleCoreDocker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\obj\Release\netcoreapp3.1\ConsoleCoreDocker.dll
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\obj\Release\netcoreapp3.1\ConsoleCoreDocker.pdb
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\obj\Release\netcoreapp3.1\ConsoleCoreDocker.genruntimeconfig.cache

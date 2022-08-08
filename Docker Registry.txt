@@ -1,0 +1,12 @@
+Image kütüphanesi.
+
+
+Hosted Docker Registery
+						------------------------ On premises
+Docker Trusted
+
+
+
+Docker Hub Registery
+Azure Container					-------------------------- Public Cloud
+Google Container Registery

@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\bin\Release\netcoreapp3.1\publish\ConsoleCoreDocker.exe
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\bin\Release\netcoreapp3.1\publish\ConsoleCoreDocker.dll
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\bin\Release\netcoreapp3.1\publish\ConsoleCoreDocker.deps.json
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\bin\Release\netcoreapp3.1\publish\ConsoleCoreDocker.runtimeconfig.json
+C:\Users\User\source\repos\Core.Docker.Application\ConsoleCoreDocker\bin\Release\netcoreapp3.1\publish\ConsoleCoreDocker.pdb
