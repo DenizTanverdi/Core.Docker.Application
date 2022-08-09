@@ -23,3 +23,27 @@ image silmek için kullanabiliriz
 
 --force kullandığımız bir container çalışssa bile silebiliyoruz.
  imageler de aktif bir container varsa imageyi silemeyiz
+
+
+ Docker Pull Komutu
+
+ docker hubdan  image çekebiliriz tag belirtmezsek son versiyonu getirir o yüzden tag ile çekelim
+ docker pull mcr.microsoft.com/dotnet/core/sdk:3.1
+
+  Docker Push Komutu
+
+ image gönderebiliriz 
+
+ Repository olusturmamız gerekiyor.
+
+ docker tag dnztanverdi/examplerepository:tagname
+
+ docker push dnztanverdi/examplerepository:tagname
+
+
+ Diğer Docker CLI Komutları
+
+
+ https://docs.docker.com/engine/reference/commandline/cli/
+
+ 
