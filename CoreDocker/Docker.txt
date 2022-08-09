@@ -1,3 +1,25 @@
 ﻿Benim bilgisayrarımda çalışıyordu sorununu çözer :)
 
 Bilgisayarlar arasındaki versiyon gibi sorunları ortadan kaldırıyor.
+
+Docker CLI KOMUTLARI
+
+----RUN------
+
+docker create+docker start iki komutu gerçkleşitiriyor.
+
+-----RUN --RM -------------
+
+Container ne zaman durdurursak silme işlemi yapar run --rm olarak kullanılır.
+
+----docker rmi ------------
+
+image silmek için kullanabiliriz
+
+
+---imagelere nasıl etiket atılır----
+
+: etiketinden sonra 
+
+--force kullandığımız bir container çalışssa bile silebiliyoruz.
+ imageler de aktif bir container varsa imageyi silemeyiz
