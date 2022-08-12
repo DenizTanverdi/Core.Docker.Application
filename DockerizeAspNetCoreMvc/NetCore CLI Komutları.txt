@@ -1,0 +1,13 @@
+﻿new // yeni proje olusturabiliyorum.
+restore
+build
+publish
+run
+test // testi çalıştırır.
+vstest
+pack
+migrate
+clean
+sln
+help
+store
